@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Create_Blog/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1b8d4cde"
+  }
+]
